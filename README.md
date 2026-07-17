@@ -55,7 +55,7 @@ Bring robotics to your school! We partner with underfunded districts to provide 
 This repository contains:
 
 - **Website:** HTML + CSS (single file)
-- **Logo:** AI-generated logo (`logo.png`)  
+- **Logo:**  (`logo.png`)  
 - **Branding:** Gradient and tech-inspired design  
 
 Future updates may include interactive elements, donation integration, and student dashboards.
